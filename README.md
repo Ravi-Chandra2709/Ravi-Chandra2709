@@ -19,7 +19,7 @@
 <br/>
 
 
-- 🔭  I'm currently pursuing my under graduation from [Vasavi College of Engineering](vce.ac.in) specializing in Information Technolgy, which is under Osmania University. 
+- 🔭  I'm currently pursuing my under graduation from [Vasavi College of Engineering](https://www.vce.ac.in) specializing in Information Technolgy, which is under Osmania University. 
 - 🌱 I’m currently learning more about Steganography, Block chain technologies.
 - 💬 Ask me Full-stack about Web development
 - 📫 How to reach me: ravi48566@gmail.com
