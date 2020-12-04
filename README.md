@@ -1,4 +1,5 @@
 ### Hola, I'm Ravi Chandra 👋
+
 <br/>
   <a href="https://twitter.com/RaviCha25539251">
     <img align="left" alt="Ravi Chandra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,12 +16,21 @@
   <a href="https://instagram.com/mr___rc/">
     <img align="left" alt="Ravi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-
-
 <br/>
 
-- 🔭  I'm currently pursuing my under graduation from ### Vasavi College of Engineering, which is under ### Osmania University. 
+
+- 🔭  I'm currently pursuing my under graduation from [Vasavi College of Engineering](vce.ac.in) specializing in Information Technolgy, which is under Osmania University. 
 - 🌱 I’m currently learning more about Steganography, Block chain technologies.
 - 💬 Ask me Full-stack about Web development
 - 📫 How to reach me: ravi48566@gmail.com
 - 😄 Pronouns: He/His
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
