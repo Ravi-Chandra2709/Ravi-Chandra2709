@@ -10,7 +10,7 @@
     <img align="left" alt="Ravi Chandra's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <a href="https://mathiravichandra.blogspot.com">
-    <img align="left" alt="Ravi's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blog.svg" />
+    <img align="left" alt="Ravi's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
   </a>
   <a href="https://instagram.com/mr___rc/">
     <img align="left" alt="Ravi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
