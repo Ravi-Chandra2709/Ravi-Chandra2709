@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me Full-stack about Web development
 - 📫 How to reach me: ravi48566@gmail.com
 - 😄 Pronouns: He/His
-
