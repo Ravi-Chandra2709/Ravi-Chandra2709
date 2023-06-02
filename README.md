@@ -4,7 +4,7 @@
   <a href="https://twitter.com/RaviCha25539251">
     <img align="left" alt="Ravi Chandra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/mathi-ravi-chandra-a714181b2">
+  <a href=["https://www.linkedin.com/in/mathi-ravi-chandra-a714181b2](https://www.linkedin.com/in/ravi-chandra-mathi-a714181b2)">
     <img align="left" alt="Ravi Chandra's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/Ravi-Chandra2709/Ravi-Chandra2709">
