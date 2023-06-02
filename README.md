@@ -19,10 +19,11 @@
 <br/>
 
 
-- 🔭  I'm currently pursuing my under graduation from [Vasavi College of Engineering](https://www.vce.ac.in) specializing in Information Technolgy, which is under **Osmania University** . 
-- 🌱 I’m currently learning more about Steganography, Block chain technologies.
-- 💬 Ask me Full-stack about Web development
-- 📫 How to reach me: ravi48566@gmail.com
+- 🔭  I completed my under graduation from [Vasavi College of Engineering affiliated to **Osmania University** ](https://www.vce.ac.in) specializing in Information Technolgy. 
+- I worked with SpringML IDC for more than 1 year as an Associate Data Engineer.Here I worked on projects which included application migration to GCP, Data visualization, GKE, App Development, Dataflow and some of the GCP components.
+- 🌱 I’m currently learning more about Data Science and AI.
+- 💬 Ask me Full-stack about Web development, Data Engineering, GCP and its components.
+- 📫 How to reach me: ravichandramathi@gmail.com
 - 😄 Pronouns: He/His
 - <a  href="https://github.com/Ravi-Chandra2709?tab=repositories">repositories</a>
 
