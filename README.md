@@ -1,5 +1,5 @@
 ### Hola, I'm Ravi Chandra 👋
-[know about me](https://ravi-chandra2709.github.io/RaviChandra.github.io/)
+[know about me](https://ravi-chandra2709.github.io/Ravi.github.io/)
 <br/>
   <a href="https://twitter.com/RaviCha25539251">
     <img align="left" alt="Ravi Chandra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
