@@ -16,7 +16,7 @@
 - 🎓 Master’s in **Computer Science** at **Florida International University** (GPA: 4.0)  
 - 🛠️ Associate Data Engineer at **Egen (FKA SpringML, Inc)**: Worked on GCP migration, Kubernetes-based services, and server monitoring.  
 - 🔬 Graduate ML Researcher at **FIU**: Conducted research on nuclear waste management, focusing on predictive modeling, ExaplainableAI and data visualizations.
-- 📊 Data Analyst Intern at Miami-Dade County: Built interactive Power BI dashboards from SQL Server and Databricks data, streamlining project status reporting for managers and directors.
+- 📊 Data Analyst Intern at **Miami-Dade County**: Built interactive Power BI dashboards from SQL Server and Databricks data, streamlining project status reporting for managers and directors.
 - <i> I love working with data because it’s at the heart of every invention we see around us. For me, it’s exciting to be the engineer who shapes it, the analyst who uncovers insights from it, or the scientist who creates something new out of it.
 ---
 
