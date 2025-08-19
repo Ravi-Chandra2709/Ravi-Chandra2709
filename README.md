@@ -14,56 +14,79 @@
 
 ## 🌟 About Me  
 - 🎓 Master’s in **Computer Science** at **Florida International University** (GPA: 4.0)  
-- 🛠️ Associate Data Engineer at **SpringML**: Worked on GCP migration, Kubernetes-based services, and server monitoring.  
-- 🔬 Graduate Research Assistant at **FIU**: Conducted research on **nuclear waste management**, focusing on predictive analytics and **data visualizations**.  
-- 📊 Passionate about **Data Engineering**, **Cloud Infrastructure**, and **AI/ML**.  
-
+- 🛠️ Associate Data Engineer at **Egen (FKA SpringML, Inc)**: Worked on GCP migration, Kubernetes-based services, and server monitoring.  
+- 🔬 Graduate ML Researcher at **FIU**: Conducted research on nuclear waste management, focusing on predictive modeling, ExaplainableAI and data visualizations.
+- 📊 Data Analyst Intern at Miami-Dade County: Built interactive Power BI dashboards from SQL Server and Databricks data, streamlining project status reporting for managers and directors.
+- <i> I love working with data because it’s at the heart of every invention we see around us. For me, it’s exciting to be the engineer who shapes it, the analyst who uncovers insights from it, or the scientist who creates something new out of it.
 ---
 
 ## 🔭 Recent Projects  
-🚀 **Automated Podcast Generation Using LLMs**  
-- Developed a podcast scripting system using **GPT-4** and **SerpAPI** for real-time news.  
-- Implemented **Google Cloud TTS** for audio automation using **Flask**.  
 
-⚡ **Digital Twin for Microgrid Resiliency**  
-- Built a **Digital Twin framework** for anomaly detection in microgrid operations.  
-- Used **LSTM, CatBoost,** and **XGBoost** models for predictive analysis.  
+🚰 **Construction & Utility Project Dashboards – Miami-Dade County**  
+- Built **Power BI dashboards** integrating **Databricks Bronze tables + SQL Server** for $1M+ CIP projects.  
+- Automated **real-time PSR (Project Status Reports)**, eliminating manual PPT workflows and saving time for PM's.  
 
-🌐 **IBT/ABC-UTC Research Database and UI**  
-- Developed a **WordPress** UI for research projects using **Divi Theme Builder** and **Search & Filter Pro**.  
+☁️ **PubWise oRTB Application Migration (SpringML/Egen)**  
+- Migrated patented ad-bidding engine to **Google Cloud (GKE, Dataflow, BigQuery)**, enabling 99.9% uptime.  
+- Containerized services with **Docker/Terraform**, improving scalability and reducing infra overhead by 25%.  
 
-🎯 **PubWise oRTB Application Migration**  
-- Migrated a bidding platform to **Google Kubernetes Engine (GKE)**, boosting server performance.  
-- Created a custom monitoring dashboard with **Anthos Service Mesh**.  
+🔬 **Predictive Modeling for Nuclear Waste Flow (DOE Research)**  
+- Built **XGBoost/Ridge regression models** on AWS pipelines to predict fluid velocity thresholds.  
+- Automated **ETL with Glue + Step Functions**, ensuring data quality and supporting regulatory safety compliance.  
+
+📊 **Bias-Aware Travel Analysis (Florida DOT)**  
+- Analyzed 1M+ records of **NHTS transportation data** to uncover inequities in mobility across income groups.  
+- Used **Random Forests + SHAP** to interpret results, delivering **policy recommendations** to reduce disparities.  
+
+🚖 **Real-Time Taxi Trip Forecasting Pipeline (GCP)**  
+- Developed an **end-to-end MLOps pipeline** with Pub/Sub, Dataflow, Vertex AI, and Cloud Run.  
+- Reduced prediction error by **19%** through feature engineering and automated model retraining.  
+
 
 ---
 
 ## 🛠️ Technologies & Tools  
-### Programming Languages  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>  
 
-### Cloud Technologies  
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Google_Cloud_logo.svg/1200px-Google_Cloud_logo.svg.png"></code> **Google Cloud Platform (GCP)**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/docker/docker.png"></code> **Docker, Kubernetes**  
+### Programming & Query Languages  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> **Python**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code> **SQL**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code> **Java**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code> **C**  
 
-### Web Technologies  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/html/html.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/css/css.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/javascript/javascript.png"></code>  
+### Cloud & Data Engineering  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code> **Google Cloud Platform (GCP)** – BigQuery, Dataflow, Pub/Sub, Vertex AI  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code> **AWS** – S3, Glue, Redshift, Lambda  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code> **Docker**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code> **Kubernetes**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/databricks/databricks.png"></code> **Databricks** (Bronze/Silver/Gold Layers, Delta Lake)  
 
-### Machine Learning  
-- **ML Models**: Regression, Classification, LSTM, XGBoost, CatBoost  
-- **Neural Networks**: ANN, CNN, RNN  
+### BI & Visualization  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png"></code> **Power BI**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png"></code> **Tableau**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png"></code> **Excel (Advanced Modeling, VBA)**  
+
+### Machine Learning & AI  
+- **Models**: Regression, Classification, Random Forests, XGBoost, CatBoost, LSTM  
+- **Deep Learning**: ANN, CNN, RNN  
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, SHAP/Explainable AI  
+- **MLOps**: Vertex AI Pipelines, MLflow  
+
+### Other Tools & DevOps  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code> **Git/GitHub**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code> **Terraform**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code> **Linux**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/jira/jira.png"></code> **Jira**  
+ 
 
 ---
 
 ## 🏆 Certifications  
+- **AWS Data Engineer Associate**
 - **Google Cloud Associate Cloud Engineer**  
-- **Google Cloud Professional Data Engineer**  
-- **Microsoft Azure AI Fundamentals**  
+- **Google Cloud Professional Data Engineer**
+- **Professional Cloud DevOps Engineer**
+- **Microsoft Azure AI Fundamentals**
+- **Databricks Fundamentals**
 
 ---
 
@@ -77,4 +100,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ravi-Chandra2709&show_icons=true&theme=radical" />  
 </p>  
 
-💡 **Open to Collaboration**: If you're interested in collaborating or working on exciting and innovative projects, feel free to reach out to me at **ravichandramathi9@gmail.com**. Let's build something amazing together! 🚀
+💡 **Open to Collaboration**: If you're interested in collaborating or working on exciting and innovative projects, feel free to reach out to me at **ravichandramathi9@gmail.com**. Let's build something amazing together!
