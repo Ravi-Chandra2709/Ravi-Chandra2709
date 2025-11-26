@@ -1,6 +1,6 @@
 # 👋 Hola, I'm Ravi Chandra Mathi!  
 
-[**Know more about me**](https://ravi-chandra2709.github.io/ravichandramathi.github.io/)  
+[**Know more about me**](https://portfolio-topaz-alpha-28.vercel.app/)  
 
 <a href="https://twitter.com/RaviCha25539251"><img align="left" alt="Ravi Chandra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/mathi-ravi-chandra-a714181b2"><img align="left" alt="Ravi Chandra's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
